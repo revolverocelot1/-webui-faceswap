@@ -1,4 +1,4 @@
-**BREAKING CHANGE : This is a reboot with enforced protection on NSFW content. You will likely have to reinstall !**
+**BREAKING CHANGE : This is a reboot with enforced protection against NSFW content. You will likely have to reinstall !**
 
 # FaceSwap Extension - Automatic 1111 - Proof of Concept
 
